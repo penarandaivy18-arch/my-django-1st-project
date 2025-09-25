@@ -1,0 +1,10 @@
+Python Version:3.11.9 (python --version)
+
+Virtual Environment(venv): 
+PS C:\Users\Ivy Peñaranda\Documents\django> .venv\Scripts\Activate    
+(.venv) PS C:\Users\Ivy Peñaranda\Documents\django> 
+
+Django Version: 5.2.6 (python -m django --version)
+
+Runserver: (python manage.py runserver
+
